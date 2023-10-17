@@ -1,0 +1,60 @@
+[
+    {
+        "name" : "silver macbook pro",
+        "price" : "4000 USD",
+        "rating" : "4.78/5",
+        "photo" : "./images/products/mack-book.jpeg",
+        "description" : "MacBook Pro is supercharged by M2. It’s our most portable pro laptop with all-day battery life and a gorgeous Retina display."
+    },
+    {
+        "name" : "iphone 15pro",
+        "price" : "1200 USD",
+        "rating" : "4.48/5",
+        "photo" : "images/products/iPhone-15-Pro.jpg",
+        "description" : "It has a titanium design, A17 Pro chipset, action button, 48MP main camera, USB-C port, 8 GB RAM, and a 3274 mAh battery."
+    },
+    {
+        "name" : "AirPods Pro (2nd generation)",
+        "price" : "134 USD",
+        "rating" : "4.89/5",
+        "photo" : "images/products/air-pod.jpg",
+        "description" : "TheAirPods Pro has Adaptive Audio,2 automatically prioritizing sounds that need your attention as you move through the world"
+    },
+    {
+        "name" : "apple watch ultra 2",
+        "price" : "370 USD",
+        "rating" : "4.98/5",
+        "photo" : "images/products/apple-watch-ultra-2.jpg",
+        "description" : "It is fitness tracking, health-oriented capabilities, wireless telecommunication, integrates with iOS and other Apple products."
+    },
+    {
+        "name" : "The iPad",
+        "price" : "600 USD",
+        "rating" : "4.88/5",
+        "photo" : "images/products/IPad.jpg",
+        "description" : "The iPad is a brand of iOS and iPadOS-based tablet that are developed by Apple Inc. First introduced on January 27, 2010."
+    },
+    {
+        "name" : "AirPods Max",
+        "price" : "549 USD",
+        "rating" : "4.58/5",
+        "photo" : "images/products/ipod-max.jpg",
+        "description" : "AirPods Max are wireless Bluetooth over-ear headphones designed by Apple, and released on December 15, 2020."
+    },
+    {
+        "name" : "HomePod",
+        "price" : "299 USD",
+        "rating" : "4.78/5",
+        "photo" : "images/products/homepod.jpg",
+        "description" : "The HomePod is a smart speaker developed by Apple Inc. Designed to work with the Apple Music subscription service"
+    },
+    {
+        "name" : "Magic Mouse",
+        "price" : "99 USD",
+        "rating" : "4.38/5",
+        "photo" : "images/products/MMMQ3.jpeg",
+        "description" : "The Magic Mouse is a multi-touch wireless mouse that is manufactured by Foxconn and sold by Apple Inc."
+    }
+
+
+]
